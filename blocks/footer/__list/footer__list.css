@@ -1,0 +1,19 @@
+.footer__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.12;
+  color: #FFFFFF;
+  display: flex;
+}
+
+@media screen and (max-width:750px) {
+  .footer__list {
+    flex-direction: column;
+    font-size: 24px;
+    line-height: 1;
+  }
+}
