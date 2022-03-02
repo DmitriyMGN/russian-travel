@@ -11,7 +11,7 @@
 @media screen and (max-width:900px) {
   .places__title {
     font-size: 55px;
-    padding-left: 10px;
+    padding-right: 10px;
   }
 }
 
@@ -25,7 +25,7 @@
 @media screen and (max-width:320px) {
   .places__title {
     font-size: 32px;
-    padding-left: 0;
+    padding-right: 0;
     margin-left: 16px;
     margin-right: 16px;
   }
