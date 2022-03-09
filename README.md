@@ -4,7 +4,7 @@
 Одностраничный сайт о путешествиях по России
 
 ## Ссылка на проект
-Ссылка на проект: https://dmitriymgn.github.io/russian-travel/
+https://dmitriymgn.github.io/russian-travel/
 
 ## Стек 
 1. HTML
